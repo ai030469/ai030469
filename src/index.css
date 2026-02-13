@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@theme {
+  --color-celadon-50: #f0fdf9;
+  --color-celadon-100: #e0f2f1;
+  --color-celadon-200: #b2dfdb;
+  --color-celadon-300: #80cbc4;
+  --color-celadon-400: #4db6ac;
+  --color-celadon-500: #26a69a;
+  --color-celadon-600: #009688;
+  --color-celadon-700: #00897b;
+  --color-celadon-800: #00796b;
+  --color-celadon-900: #00695c;
+  --font-sans: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #fafffe;
+  min-height: 100dvh;
+  margin: 0;
+}
+
+.watercolor-card {
+  background: linear-gradient(135deg, #f0fdf9 0%, #e0f2f1 40%, #f0fdf9 70%, #e8f5e9 100%);
+  position: relative;
+}
+.watercolor-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 20% 50%, rgba(178,223,219,0.3) 0%, transparent 70%),
+              radial-gradient(ellipse at 80% 20%, rgba(200,230,201,0.2) 0%, transparent 60%);
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+@keyframes gauge-fill {
+  from { stroke-dashoffset: 251; }
+}
+
+.btn-press {
+  transition: all 0.15s ease;
+}
+.btn-press:active {
+  transform: scale(0.96);
+  opacity: 0.8;
+}
+
+.scroll-picker {
+  scroll-snap-type: y mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+.scroll-picker-item {
+  scroll-snap-align: center;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #b2dfdb;
+  border-radius: 2px;
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(1.5); opacity: 0; }
+}
+.recording-pulse::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  background: #ef4444;
+  animation: pulse-ring 1.2s ease-out infinite;
+}
