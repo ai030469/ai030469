@@ -1,238 +1,283 @@
 # רשימת 150 שירים בסגנון Fade to Black / Your Own Sweet Way / Sporting Life Blues
 
-שירים המשלבים בלוז אותנטי, רוק כבד מהורהר, וגיטרה רגשית עמוקה.
+**הפיל המשותף:** הקלטות סטודיו, מדיום טמפו, בלוזי-אטמוספרי, מלטף, לא רועש, עשיר בתחושה.
 
 ---
 
-## Metallica ועידן המטאל הפרוגרסיבי
+## J.J. Cale – אבי הבלוז הרפוי
 
-1. Nothing Else Matters – Metallica
-2. The Unforgiven – Metallica
-3. One – Metallica
-4. Sanitarium (Welcome Home) – Metallica
-5. For Whom the Bell Tolls – Metallica
-6. Sad But True – Metallica
-7. Orion – Metallica
-8. To Live Is to Die – Metallica
-9. The Four Horsemen – Metallica
-10. Cemetery Gates – Pantera
-11. Floods – Pantera
-12. Hollow – Pantera
-
----
-
-## Pink Floyd – רוק פסיכדלי-בלוזי מהורהר
-
-13. Comfortably Numb – Pink Floyd
-14. Wish You Were Here – Pink Floyd
-15. Shine On You Crazy Diamond – Pink Floyd
-16. Dogs – Pink Floyd
-17. Hey You – Pink Floyd
-18. Time – Pink Floyd
-19. Echoes – Pink Floyd
-20. The Great Gig in the Sky – Pink Floyd
+1. After Midnight – J.J. Cale
+2. Cocaine – J.J. Cale (הגרסה המקורית, לא קלפטון)
+3. Magnolia – J.J. Cale
+4. Call Me the Breeze – J.J. Cale
+5. Crazy Mama – J.J. Cale
+6. Clyde – J.J. Cale
+7. Lies – J.J. Cale
+8. Travelin' Light – J.J. Cale
+9. Louisiana Women – J.J. Cale
+10. Sensitive Kind – J.J. Cale
+11. Right Down Here – J.J. Cale
+12. Tijuana – J.J. Cale
 
 ---
 
-## Led Zeppelin – בלוז-רוק כבד
+## Mark Knopfler / Dire Straits – גיטרה עדינה ועמוקה
 
-21. Since I've Been Loving You – Led Zeppelin
-22. Tea for One – Led Zeppelin
-23. In My Time of Dying – Led Zeppelin
-24. Ten Years Gone – Led Zeppelin
-25. The Rain Song – Led Zeppelin
-26. Babe I'm Gonna Leave You – Led Zeppelin
-27. Tangerine – Led Zeppelin
-28. Travelling Riverside Blues – Led Zeppelin
-29. How Many More Times – Led Zeppelin
-30. The Lemon Song – Led Zeppelin
-
----
-
-## Cream / Derek and the Dominos
-
-31. White Room – Cream
-32. Sunshine of Your Love – Cream
-33. Crossroads – Cream
-34. Badge – Cream
-35. Born Under a Bad Sign – Cream
-36. Layla – Derek and the Dominos
-37. Bell Bottom Blues – Derek and the Dominos
-38. Key to the Highway – Derek and the Dominos
-39. Why Does Love Got to Be So Sad – Derek and the Dominos
+13. Romeo and Juliet – Dire Straits
+14. Brothers in Arms – Dire Straits
+15. Why Worry – Dire Straits
+16. Your Latest Trick – Dire Straits
+17. Telegraph Road – Dire Straits
+18. Private Investigations – Dire Straits
+19. Water of Love – Dire Straits
+20. Tunnel of Love – Dire Straits
+21. So Far Away – Dire Straits
+22. Lady Writer – Dire Straits
 
 ---
 
-## Stevie Ray Vaughan – בלוז-רוק טקסאסי
+## Peter Green / Fleetwood Mac (המקורי) – בלוז אנגלי מהורהר
 
-40. Texas Flood – Stevie Ray Vaughan
-41. Pride and Joy – Stevie Ray Vaughan
-42. Couldn't Stand the Weather – Stevie Ray Vaughan
-43. Little Wing – Stevie Ray Vaughan
-44. Lenny – Stevie Ray Vaughan
-45. Riviera Paradise – Stevie Ray Vaughan
-46. Life Without You – Stevie Ray Vaughan
-47. The Sky Is Crying – Stevie Ray Vaughan
-48. Cold Shot – Stevie Ray Vaughan
-49. Tin Pan Alley – Stevie Ray Vaughan
+23. Albatross – Fleetwood Mac
+24. Need Your Love So Bad – Fleetwood Mac
+25. Black Magic Woman – Peter Green (הגרסה המקורית)
+26. Man of the World – Fleetwood Mac
+27. Love That Burns – Fleetwood Mac
+28. Looking for Somebody – Fleetwood Mac
+29. I Loved Another Woman – Fleetwood Mac
+
+---
+
+## Robert Cray – בלוז עכשווי חלק
+
+30. Smoking Gun – Robert Cray
+31. Right Next Door (Because of Me) – Robert Cray
+32. Don't Be Afraid of the Dark – Robert Cray
+33. Phone Booth – Robert Cray
+34. Nothin' But a Woman – Robert Cray
+35. Acting This Way – Robert Cray
+36. Bad Influence – Robert Cray
+37. I Guess I Showed Her – Robert Cray
+
+---
+
+## B.B. King – בלוז איטי קלאסי
+
+38. The Thrill Is Gone – B.B. King
+39. How Blue Can You Get – B.B. King
+40. Sweet Little Angel – B.B. King
+41. Every Day I Have the Blues – B.B. King
+42. Three O'Clock Blues – B.B. King
+43. Why I Sing the Blues – B.B. King
+44. Paying the Cost to Be the Boss – B.B. King
+
+---
+
+## Stevie Ray Vaughan – רק הצדדים האיטיים והאטמוספריים
+
+45. Lenny – Stevie Ray Vaughan
+46. Riviera Paradise – Stevie Ray Vaughan
+47. Life Without You – Stevie Ray Vaughan
+48. Tin Pan Alley – Stevie Ray Vaughan
+49. The Sky Is Crying – Stevie Ray Vaughan
 50. Ain't Gone 'N' Give Up on Love – Stevie Ray Vaughan
 
 ---
 
-## Jimi Hendrix – גיטרה כאבל וקסמי
+## Eric Clapton – Slowhand האטמוספרי
 
-51. Red House – Jimi Hendrix
-52. Voodoo Child (Slight Return) – Jimi Hendrix
-53. Little Wing – Jimi Hendrix
-54. The Wind Cries Mary – Jimi Hendrix
-55. Bold as Love – Jimi Hendrix
-56. Castles Made of Sand – Jimi Hendrix
-57. Burning of the Midnight Lamp – Jimi Hendrix
-58. Angel – Jimi Hendrix
-59. Hear My Train a Comin' – Jimi Hendrix
-60. Drifting – Jimi Hendrix
+51. Old Love – Eric Clapton
+52. Running on Faith – Eric Clapton
+53. Worried Life Blues – Eric Clapton
+54. Sinner's Prayer – Eric Clapton
+55. Reconsider Baby – Eric Clapton
+56. Before You Accuse Me – Eric Clapton
+57. Presence of the Lord – Blind Faith
+58. Let It Rain – Eric Clapton
 
 ---
 
-## B.B. King / Albert King / Freddie King – מלכי הבלוז
+## Gary Moore – בלוז אירי רגשי
 
-61. The Thrill Is Gone – B.B. King
-62. Every Day I Have the Blues – B.B. King
-63. How Blue Can You Get – B.B. King
-64. Sweet Little Angel – B.B. King
-65. Three O'Clock Blues – B.B. King
-66. Born Under a Bad Sign – Albert King
-67. As the Years Go Passing By – Albert King
-68. I'll Play the Blues for You – Albert King
-69. Blues Power – Albert King
-70. Hide Away – Freddie King
-71. Have You Ever Loved a Woman – Freddie King
+59. Still Got the Blues – Gary Moore
+60. Parisienne Walkways – Gary Moore
+61. Empty Rooms – Gary Moore
+62. Story of the Blues – Gary Moore
+63. Too Tired – Gary Moore
+64. The Blues Is Alright – Gary Moore
 
 ---
 
-## Robert Johnson / בלוז דלתא קלאסי
+## Allman Brothers Band – בלוז דרומי פתוח
 
-72. Cross Road Blues – Robert Johnson
-73. Love in Vain – Robert Johnson
-74. Come On in My Kitchen – Robert Johnson
-75. Hellhound on My Trail – Robert Johnson
-76. Me and the Devil Blues – Robert Johnson
-77. Dust My Broom – Elmore James
-78. The Sky Is Crying – Elmore James
-79. Shake Your Money Maker – Elmore James
-80. Hoochie Coochie Man – Muddy Waters
-81. Mannish Boy – Muddy Waters
-82. Rollin' and Tumblin' – Muddy Waters
-83. Got My Mojo Working – Muddy Waters
-84. Standing Around Crying – Muddy Waters
+65. Melissa – Allman Brothers
+66. Blue Sky – Allman Brothers
+67. Little Martha – Allman Brothers
+68. Soulshine – Warren Haynes / Allman Brothers
+69. Straight From the Heart – Allman Brothers
+70. Midnight Rider – Allman Brothers
+71. In Memory of Elizabeth Reed – Allman Brothers
 
 ---
 
-## Howlin' Wolf / John Lee Hooker
+## Van Morrison – נשמה ואווירה
 
-85. Smokestack Lightnin' – Howlin' Wolf
-86. Back Door Man – Howlin' Wolf
-87. Spoonful – Howlin' Wolf
-88. Evil – Howlin' Wolf
-89. How Many More Years – Howlin' Wolf
-90. Boom Boom – John Lee Hooker
-91. Dimples – John Lee Hooker
-92. One Bourbon, One Scotch, One Beer – John Lee Hooker
-93. I'm in the Mood – John Lee Hooker
-94. Crawlin' King Snake – John Lee Hooker
+72. Into the Mystic – Van Morrison
+73. Tupelo Honey – Van Morrison
+74. Crazy Love – Van Morrison
+75. Sweet Thing – Van Morrison
+76. And It Stoned Me – Van Morrison
+77. Cleaning Windows – Van Morrison
 
 ---
 
-## Eric Clapton – Slowhand
+## The Band – אמריקנה בלוזי
 
-95. Have You Ever Loved a Woman – Eric Clapton
-96. Presence of the Lord – Blind Faith
-97. Let It Rain – Eric Clapton
-98. Worried Life Blues – Eric Clapton
-99. Reconsider Baby – Eric Clapton
-100. Motherless Children – Eric Clapton
-101. Old Love – Eric Clapton
-102. Running on Faith – Eric Clapton
-103. Before You Accuse Me – Eric Clapton
-104. Sinner's Prayer – Eric Clapton
+78. The Weight – The Band
+79. The Night They Drove Old Dixie Down – The Band
+80. I Shall Be Released – The Band
+81. Stagefright – The Band
+82. Ophelia – The Band
 
 ---
 
-## Gary Moore – בלוז אירי כבד
+## Neil Young – פולק-בלוז אינטרוספקטיבי
 
-105. Still Got the Blues – Gary Moore
-106. Empty Rooms – Gary Moore
-107. Parisienne Walkways – Gary Moore
-108. The Blues Is Alright – Gary Moore
-109. Too Tired – Gary Moore
-110. Story of the Blues – Gary Moore
-
----
-
-## Dire Straits / Mark Knopfler – גיטרה עדינה ורגשית
-
-111. Sultans of Swing – Dire Straits
-112. Brothers in Arms – Dire Straits
-113. Romeo and Juliet – Dire Straits
-114. Telegraph Road – Dire Straits
-115. Private Investigations – Dire Straits
-116. Your Latest Trick – Dire Straits
-117. Why Worry – Dire Straits
-118. Water of Love – Dire Straits
+83. Heart of Gold – Neil Young
+84. Old Man – Neil Young
+85. Helpless – Neil Young
+86. The Needle and the Damage Done – Neil Young
+87. Harvest Moon – Neil Young
+88. After the Gold Rush – Neil Young
+89. Comes a Time – Neil Young
 
 ---
 
-## Neil Young – פולק-רוק אינטרוספקטיבי
+## Grateful Dead – בלוז-פולק רפוי
 
-119. The Needle and the Damage Done – Neil Young
-120. Heart of Gold – Neil Young
-121. Old Man – Neil Young
-122. Down by the River – Neil Young
-123. Cowgirl in the Sand – Neil Young
-124. Like a Hurricane – Neil Young
-125. Hey Hey My My – Neil Young
-126. Helpless – Neil Young (CSNY)
+90. Ripple – Grateful Dead
+91. Brokedown Palace – Grateful Dead
+92. Stella Blue – Grateful Dead
+93. Attics of My Life – Grateful Dead
+94. Sugaree – Grateful Dead
+95. Friend of the Devil – Grateful Dead
 
 ---
 
-## Grateful Dead / Jerry Garcia – ג'אזי-בלוזי
+## T-Bone Walker – שורשי הבלוז החשמלי
 
-127. Stella Blue – Grateful Dead
-128. Attics of My Life – Grateful Dead
-129. Brokedown Palace – Grateful Dead
-130. Dark Star – Grateful Dead
-131. Sugaree – Grateful Dead
-132. Friend of the Devil – Grateful Dead
-133. Ripple – Grateful Dead
-134. Mission in the Rain – Jerry Garcia Band
+96. Stormy Monday – T-Bone Walker
+97. T-Bone Shuffle – T-Bone Walker
+98. Mean Old World – T-Bone Walker
+99. I Got the Blues – T-Bone Walker
+100. Cold Cold Feeling – T-Bone Walker
 
 ---
 
-## Carlos Santana – בלוז לטיני
+## Santana – בלוז לטיני אטמוספרי
 
-135. Samba Pa Ti – Santana
-136. Europa – Santana
-137. Black Magic Woman – Santana
-138. Soul Sacrifice – Santana
-139. Incident at Neshabur – Santana
-140. Incident at Neshabur – Santana
-
----
-
-## בלוז-רוק עכשווי
-
-141. Black – Pearl Jam
-142. Better Man – Pearl Jam
-143. Alive – Pearl Jam
-144. Given to Fly – Pearl Jam
-145. Nothing Man – Pearl Jam
+101. Europa – Santana
+102. Samba Pa Ti – Santana
+103. Incident at Neshabur – Santana
+104. Moonflower – Santana
+105. Shangó – Santana
 
 ---
 
-## אחרים – עומק רגשי ובלוז
+## John Mayer – בלוז עכשווי רגשי
 
-146. Tom Traubert's Blues – Tom Waits
-147. Accidentally Like a Martyr – Warren Zevon
-148. Desperados Under the Eaves – Warren Zevon
-149. Damn Right I've Got the Blues – Buddy Guy
-150. Stone Crazy – Buddy Guy
+106. Slow Dancing in a Burning Room – John Mayer
+107. Gravity – John Mayer
+108. Neon – John Mayer
+109. Wild Blue – John Mayer
+110. Age of Worry – John Mayer
+
+---
+
+## Chris Rea – בלוז-רוק אטמוספרי
+
+111. Road to Hell – Chris Rea
+112. Josephine – Chris Rea
+113. Looking for the Summer – Chris Rea
+114. On the Beach – Chris Rea
+115. Let's Dance – Chris Rea
+
+---
+
+## Joe Bonamassa / Derek Trucks – בלוז מודרני מעמיק
+
+116. Sloe Gin – Joe Bonamassa
+117. Asking Around for You – Joe Bonamassa
+118. Driving Towards the Daylight – Joe Bonamassa
+119. Anyday – Derek Trucks Band
+120. Underneath the Same Moon – Derek Trucks Band
+
+---
+
+## Bonnie Raitt – בלוז עם נשמה
+
+121. I Can't Make You Love Me – Bonnie Raitt
+122. Love Me Like a Man – Bonnie Raitt
+123. Angel from Montgomery – Bonnie Raitt
+124. Dimming of the Day – Bonnie Raitt
+
+---
+
+## Bobby Bland – Soul-Blues חלק
+
+125. Stormy Monday Blues – Bobby Bland
+126. Further On Up the Road – Bobby Bland
+127. I Pity the Fool – Bobby Bland
+128. That's the Way Love Is – Bobby Bland
+
+---
+
+## Bill Withers – Soul-Blues רגשי
+
+129. Ain't No Sunshine – Bill Withers
+130. Use Me – Bill Withers
+131. Grandma's Hands – Bill Withers
+132. Better Off Dead – Bill Withers
+
+---
+
+## Taj Mahal – בלוז אקוסטי אורגני
+
+133. Lovin' in My Baby's Eyes – Taj Mahal
+134. Fishin' Blues – Taj Mahal
+135. Cakewalk Into Town – Taj Mahal
+
+---
+
+## Little Feat – Southern Rock-Blues רפוי
+
+136. Willin' – Little Feat
+137. Sailing Shoes – Little Feat
+138. Easy to Slip – Little Feat
+139. Long Distance Love – Little Feat
+
+---
+
+## Jackson Browne – פולק-בלוז אטמוספרי
+
+140. These Days – Jackson Browne
+141. Before the Deluge – Jackson Browne
+142. Fountain of Sorrow – Jackson Browne
+143. Late for the Sky – Jackson Browne
+
+---
+
+## Albert King – בלוז איטי עמוק
+
+144. As the Years Go Passing By – Albert King
+145. I'll Play the Blues for You – Albert King
+146. Blues Power – Albert King
+
+---
+
+## קלאסיקות בלוז שורשי איטי
+
+147. Sweet Home Chicago – Robert Johnson
+148. Key to the Highway – Big Bill Broonzy
+149. You Shook Me – Muddy Waters (גרסת האוריג'ינל האיטית)
+150. Stormy Weather – Nina Simone
