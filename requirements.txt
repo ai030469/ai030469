@@ -1,1 +1,7 @@
 anthropic>=0.40.0
+
+# Prompt injection detection (optional — each enables additional layers)
+Pillow>=10.0.0          # image processing (layers 1, 5)
+pytesseract>=0.3.10     # OCR — requires tesseract binary (layer 1a)
+pdfminer.six>=20221105  # PDF text extraction (layer 4)
+pyzbar>=0.1.9           # QR/barcode decoding (layer 5)
