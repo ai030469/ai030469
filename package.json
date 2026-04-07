@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "install:all": "cd backend && npm install && cd ../frontend && npm install",
-    "dev:backend": "cd backend && npm run dev",
-    "dev:frontend": "cd frontend && npm run dev",
-    "seed": "cd backend && npm run seed",
-    "start": "cd backend && npm start"
+    "setup": "cd backend && npm install && node src/seed.js && cd ../frontend && npm install",
+    "start": "concurrently --names \"backend,frontend\" --prefix-colors \"cyan,magenta\" \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "seed": "cd backend && node src/seed.js"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1"
   }
 }
